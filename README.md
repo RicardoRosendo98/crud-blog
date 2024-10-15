@@ -32,7 +32,7 @@ Este projeto é uma API para um sistema de blog que permite a criação de usuá
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/RicardoRosendo98/crud-blog.git
+   git clone https://github.com/RicardoRosendo98/crud-blog
    cd blog-blog
 
 
